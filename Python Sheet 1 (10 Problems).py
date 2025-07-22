@@ -1,6 +1,6 @@
 #Python Sheet 1 (10 Problems)
 
-'''
+
 problem 1
 
 num1 = int(input("enter a number"))
@@ -137,5 +137,3 @@ if avg >= 50:
     print("pass")
 else:
     print ("fail")
-
-'''
