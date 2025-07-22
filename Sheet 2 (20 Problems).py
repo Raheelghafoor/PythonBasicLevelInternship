@@ -1,6 +1,5 @@
 #Sheet 2 (20 Problems)
 
-'''
 #problem 1
 
 def is_leap_year(year):
@@ -414,4 +413,3 @@ result_label.pack(pady=10)
 # Run the GUI
 root.mainloop()
 
-'''
